@@ -1,0 +1,4 @@
+[core]
+    remote = vinh
+['remote "vinh"']
+    url = /home/nguyenvinh/StorageDVC
